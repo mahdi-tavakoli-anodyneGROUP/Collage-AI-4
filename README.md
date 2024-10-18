@@ -3,7 +3,11 @@
 ## تیم پروژه
 این پروژه توسط گروه 3 نفره .end دانشجویان مهندسی کامپیوتر انجام می شود.
 ### پیش نیازها
+
 -Python 3.10
+
 -کتابخانه های مورد نیاز:OpenCV , Roboflow , Ultralytics
 می توان با دستور زیر آن ها را نصب کرد:
+
+
 pip install opencv-python , pip install roboflow , pip install ultralytics
