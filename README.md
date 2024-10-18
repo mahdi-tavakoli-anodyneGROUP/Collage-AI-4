@@ -1,13 +1,11 @@
-# پروژه پردازش تصویر OPG دندان
-این پروژه برای پردازش تصاویر OPG دندان است و درسایت Roboflow لیبل گذاری شده است.هدف این پروژه,استخراج و نمایش خط سینوسی دندان ها از روی تصاویراست.
-## تیم پروژه
-این پروژه توسط گروه 3 نفره .end دانشجویان مهندسی کامپیوتر انجام می شود.
-### پیش نیازها
+# Dental OPG image processing project
+This project is for processing dental OPG images and is labeled on the Roboflow website. The purpose of this project is to extract and display the sinus line of teeth from the images.
 
+## Project team
+This project is done by a group of 3 computer engineering students.
+
+### prerequisite
 -Python 3.10
-
--کتابخانه های مورد نیاز:OpenCV , Roboflow , Ultralytics
-می توان با دستور زیر آن ها را نصب کرد:
-
-
+-Required libraries: OpenCV , Roboflow , Ultralytics
+We can be installed with the following command:
 pip install opencv-python , pip install roboflow , pip install ultralytics
